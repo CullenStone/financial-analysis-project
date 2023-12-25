@@ -1,6 +1,6 @@
 This project will use:
 
-# Data Pipeline
+# Financial Analysis Pipeline (Technologies)
 - Docker (containerizing apps)
 - Free API's - to pull financial data
 - Apache Kafka (data streaming platform)
